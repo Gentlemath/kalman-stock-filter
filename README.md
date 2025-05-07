@@ -1,5 +1,3 @@
-# kalman-stock-filter
-A lightweight Python framework for testing various filters
 
 # Kalman Stock Filter
 
