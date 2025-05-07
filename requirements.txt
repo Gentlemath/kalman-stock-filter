@@ -1,0 +1,20 @@
+# Core scientific libraries
+numpy==1.24.4
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter & widgets
+jupyterlab==3.6.3
+ipywidgets==8.0.6
+
+# Filtering libraries
+filterpy==1.4.5
+pykalman==0.9.5
+statsmodels==0.13.5
+
+# Data access (for stock prices)
+yfinance==0.2.31
+
+# Optional: progress bars and debugging
+tqdm==4.65.0
