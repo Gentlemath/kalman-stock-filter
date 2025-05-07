@@ -1,3 +1,6 @@
+# kalman-stock-filter
+A lightweight Python framework for testing various filters
+
 # Kalman Stock Filter
 
 A lightweight Python framework for testing various filters—Kalman Filter, Extended Kalman Filter (EKF), Bayesian Filter, and Particle Filter—on stock price prediction tasks.
