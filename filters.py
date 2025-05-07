@@ -15,8 +15,6 @@ class BaseFilter(ABC):
     def run(self, new_observations):
         pass
 
-
-
 class BayesianFilter(BaseFilter):
     def __init__(self, window_size = 5, processs_variance = 0.1):
         self.window_size = window_size
